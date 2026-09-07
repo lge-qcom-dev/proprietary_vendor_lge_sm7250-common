@@ -304,6 +304,7 @@ PRODUCT_PACKAGES += \
     libhta_hexagon_runtime \
     libizat_client_api \
     libizat_core \
+    libjnihelper \
     libkeymasterdeviceutils \
     libkeymasterutils \
     liblbs_core \
@@ -500,6 +501,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.diaghal@1.0 \
     vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.1 \
+    CACertService \
     CneApp \
     IWlanService \
     TimeService \
